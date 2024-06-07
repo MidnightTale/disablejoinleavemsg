@@ -1,0 +1,4 @@
+name: disablejoinleavemsg
+version: '${version}'
+main: net.hynse.disablejoinleavemsg.Disablejoinleavemsg
+api-version: '1.20'
