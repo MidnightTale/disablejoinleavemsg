@@ -1,5 +1,5 @@
-name: disablejoinleavemsg
+name: MidnightDisableJoinLeave
 version: '${version}'
-main: net.hynse.disablejoinleavemsg.Disablejoinleavemsg
+main: fun.mntale.midnightdisablejoinleave.MidnightDisableJoinLeave
 api-version: '1.20'
 folia-supported: true
